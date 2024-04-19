@@ -1,0 +1,5 @@
+/.env
+/config.py
+/Core/CookieHelper.py
+/Handlers/TestMediaGroupHandler.py
+/Images/
